@@ -6,8 +6,6 @@ public class WorkBookTwoDotThree {
         int numOfCustomers = 0;
         double profit = 0;
 
-        // Instructions for this workbook are on Learn the Part (see the Udemy Video: Workbook 2.3 to access the link).
-
         System.out.println("You picked 500 apples from an apple orchard");
         numOfApples += 500;
 
